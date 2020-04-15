@@ -1,7 +1,21 @@
 {
-  "name": "vuepress-example",
+  "name": "dev_tips_docs_cms",
   "version": "0.1.0",
+  "description": "A online documented Recipe for Disaster! :fire:",
+  "license": "MIT",
+  "author": "Clovis Rosa <clovis.souzarosa@gmail.com>",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clovis-rosa/vuepress_docs_cms.git"
+  },
+  "keywords": [
+    "webpack",
+    "boilerplate",
+    "html",
+    "scss",
+    "javascript"
+  ],
   "scripts": {
     "server": "vue-cli-service serve",
     "build": "vue-cli-service build",
