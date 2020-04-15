@@ -1,4 +1,4 @@
-# [VUEPRESS] VuePress Documentation Site :rocket:
+# [VUEPRESS] Docs Documentation Site :rocket:
 
 > A online documented Recipe for Disaster! :fire:
 
