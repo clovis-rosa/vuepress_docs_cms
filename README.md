@@ -2,7 +2,13 @@
 
 > A online documented Recipe for Disaster! :fire:
 
-[**Demo Site**](https://soon.co/)
+## Deployed at Zeit.co in only 43s 🤯
+
+[**Demo Site - doc-recipes.now.sh**](https://doc-recipes.now.sh/)
+[**Demo Site - doc-recipes.clovisrosa.now.sh**](https://doc-recipes.clovisrosa.now.sh/)
+[**Demo Site - doc-recipes-7ng9ag3yc.now.sh**](https://doc-recipes-7ng9ag3yc.now.sh/)
+
+doc-recipes.now.sh
 
 ## Project setup
 
