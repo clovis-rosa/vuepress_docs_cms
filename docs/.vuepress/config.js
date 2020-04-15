@@ -3,7 +3,9 @@ module.exports = {
   title: 'DEV | DOCS | TIPS',
   description: 'A online documented Recipe for Disaster!',
   themeConfig: {
-    lastUpdated: 'Last Updated',
+    smoothScroll: true,
+    lastUpdated: 'Last Updated', // string | boolean
+    editLinkText: 'Help us improve this page!', // custom text for edit link. Defaults to "Edit this page"
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
@@ -23,6 +25,7 @@ module.exports = {
         sidebarDepth: 0,    // optional, defaults to 1
         children: [
           '/guide/',
+          '/css-units/',
           '/installation/',
           '/advanced/',
         ]

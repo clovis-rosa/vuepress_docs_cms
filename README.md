@@ -8,6 +8,8 @@
 [**Demo Site - doc-recipes.clovisrosa.now.sh**](https://doc-recipes.clovisrosa.now.sh/)
 [**Demo Site - doc-recipes-7ng9ag3yc.now.sh**](https://doc-recipes-7ng9ag3yc.now.sh/)
 
+Have a look at [**VuePress-NetlifyCMS**](https://vuepress.imst.xyz/)
+
 doc-recipes.now.sh
 
 ## Project setup

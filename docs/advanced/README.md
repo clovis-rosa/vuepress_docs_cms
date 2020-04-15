@@ -1,28 +1,20 @@
----
-pageClass: custom-page-class
----
-
 # Advanced
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
 Current route is: {{ $route.path }}
 
-*Italic*, **bold**, and `monospace`
+_Italic_, **bold**, and `monospace`
 
 ```js
-<script>
-  const foo = 'bar';
-  console.log(foo);
-</script>
-
+<script>const foo = 'bar'; console.log(foo);</script>
 ```
 
 Itemized lists look like:
 
-  * this one
-  * that one
-  * the other one
+- this one
+- that one
+- the other one
 
 > Block quotes are
 > written like so.
@@ -72,6 +64,5 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem b
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
-
 
 ### h3 Subheading
