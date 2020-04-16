@@ -26,13 +26,14 @@ module.exports = {
         children: [
           '/guide/',
           '/css-units/',
+          '/grid-system/',
           '/installation/',
           '/advanced/',
         ]
       },
       {
         title: 'Useful Links',
-        path: '',
+        path: '/useful-links/',
         collapsable: true,
         sidebarDepth: 0,
       }
