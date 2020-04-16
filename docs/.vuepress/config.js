@@ -29,6 +29,12 @@ module.exports = {
           '/installation/',
           '/advanced/',
         ]
+      },
+      {
+        title: 'Useful Links',
+        path: '',
+        collapsable: true,
+        sidebarDepth: 0,
       }
     ]
   },
