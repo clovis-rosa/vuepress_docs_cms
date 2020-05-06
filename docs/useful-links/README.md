@@ -11,6 +11,7 @@ Just love it! - <https://thegallery.io/> :heart:
 <https://www.siteinspire.com>  
 Playground - <https://tympanus.net/Blueprints/MultiLevelMenu/> 🚀  
 CSS Framework and Showcase - <http://tachyons.io/gallery/>
+<https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/>  
 
 ## Cool Themes
 
@@ -20,6 +21,16 @@ Site type of list - <https://manetatoulian.com/archive>
 Clean Site - <https://www.thisisgrey.com> 🔥  
 Mono Colors - <https://collagecrafting.com/fr>  
 Photographer Website - <http://www.lukaslinden.net/>
+Joel Designer - <http://joelcalifa.com/>  
+Simone Magurno, Purple Site - <https://magur.no/> 🔥🔥🔥  
+Blog Minimum CSS Style, Clean -  <https://rsms.me/> 🚀🚀  
+Blog Minimum CSS - <https://www.lucassmith.me/>
+Simple Blg with Minimum Style - <http://www.kelseyscherer.com/writing> 🚀🚀  
+100 Every Day - <https://100everyday.org/> 🚀🚀🚀 
+Clean Typography Site - <http://www.jessicaharllee.com/>
+Clean Site with Cards - <https://dont.design/> 🔥 
+Cool Simple Header/Hero - <https://www.gabrielvaldivia.com/>  
+Roll to the end - <https://primer.style/about/#team/> 🔥 
 
 ## More Site to Inspire
 
@@ -28,6 +39,36 @@ Sarah L. Developeer Website - <https://fossheim.io/>
 <https://github.com/leerob/mastering-nextjs>  
 <https://educationlinks.fyi/>  
 Orange Mono Website - <https://kloaq.com/> 🚀
+
+<https://github.com/xxczaki/developer-portfolios>  
+Cool Gatsby Site - <https://github.com/agneym/blog>  
+Cool Gatsby Site - <https://github.com/agneym/portfolio>  
+React creator personal blog - <https://github.com/gaearon/overreacted.io>  
+Notes Blog Boiler Points - <https://matthiasott.com/notes> 🔥  
+Lynn Fisher Designer Projects - <https://lynnandtonic.com/art/>  
+Github HTML/CSS Page Template - <https://github.com/orderedlist/minimal>  
+Minimal Site New Devs, newdevs.org -  <https://github.com/nicokoenig/newdevsontheblock>  
+From the same creator of newdevs.org - <https://github.com/nicokoenig/koenig.codes>  
+<https://github.com/vaughnanton/minimalSite>  
+Professional looking webiste - <https://think3.co.uk/>  
+list of Architects - <https://allthearchitects.com/>  
+Nice Colors - <https://www.graphit-type.com/>  
+Blog Tutorial Style Cool! - <https://github.com/wearethescenery/ether-system-react>  
+Site Type List of Designer - <https://maximsiebert.com/>  
+Half/Half Pages Book - <http://resourcela.com/>  
+Beer Count List Site - <https://corygibbons.beer/>  
+Very Cool Images - <https://marinaesmeraldo.com/>  
+Cool Mono Color - List Style <http://www.fairedsgn.com/>  
+Crazy Girl Animation on Scroll - <https://tapwater.co/> 🔥  
+<https://www.stripes.co/articles>  
+Big Yellow Minimalist Page - <http://punkt.com/> 🔥 
+Dublin Typography Site - <https://typography.ie/>  🔥🔥  
+Articles Type of List - <https://matthiasott.com/notes> 🔥🔥 
+<https://joshwcomeau.com/>  
+Minimalist Type of Article List - <https://heydesigner.com/blog/> 🔥  
+Very simple minimalist Site - <http://tom.pe/>
+Michel van Heest Designer - <https://michelvanheest.com/>
+Purple Fonts and Gradient Background - <http://jessecha.se/>  
 
 ## The Best Minimalist Sites
 
@@ -41,7 +82,8 @@ Orange Mono Website - <https://kloaq.com/> 🚀
 <https://onepagelove.com/fusion-lite>  
 <https://wordpress.org/themes/twentyfifteen/>  
 <https://html5up.net/phantom> 🔥🔥
-
+<http://skoolfree.com/Rustics/index.html> 🔥
+HTML/CSS Wedding - <https://github.com/bketelsen/wedding>  
 <https://www.frontendmentor.io/>  
 <https://www.indiehackers.com/group/landing-page-feedback>  
 <https://www.youtube.com/channel/UC7pVho4O31FyfQsZdXWejEw/videos>  
@@ -114,7 +156,13 @@ Typography System - <https://www.codementor.io/@ricardozea/100-responsive-typogr
 <https://github.com/c0z0/cserdean.me>  
 <https://github.com/jonparkdev/my-nextjs-site> - `Check it!`  
 <https://jonathanpark.ca/blog>  
-<https://polypane.app/>
+<https://polypane.app/>  
+Minimalist Site/Blog - <https://github.com/ijjk/notion-blog>  
+<https://github.com/xxczaki/site - Personal Website>  
+<https://github.com/codebushi>  - `Check it!`  
+<https://github.com/codebushi/gatsby-theme-document>  
+<https://github.com/codebushi/nextjs-starter-forty>  
+
 
 ## Tailwind CSS
 
@@ -123,6 +171,7 @@ Typography System - <https://www.codementor.io/@ricardozea/100-responsive-typogr
 ## Svelte / SapperJS
 
 <https://github.com/EricPKerr/sapper-tailwindcss>
+A Minimal Svelte + Sapper starter kit - <https://github.com/PierBover/svelte-sapper-starter-kit-minimal-rollup>  
 
 ## Coolest DEV Tools
 
@@ -130,6 +179,9 @@ CSS Grid Code Generator - <https://cssgrid-generator.netlify.com/>
 How to Center CSS - <http://howtocenterincss.com/>  
 BEM Online Tool - <https://9elements.com/bem-cheat-sheet/>  
 CSS Stats - <https://cssstats.com> Analytics and visualizations for your stylesheets
+Online Calculators px to rem - <https://nekocalc.com/>  
+CSS Gradient Generator - <https://cssgradient.io/>  
+Test your Website - <https://web.dev/measure/>  
 
 Images of source code generator - <https://carbon.now.sh/>  
 Color Palette Generator - <https://www.canva.com/color-palette/>
